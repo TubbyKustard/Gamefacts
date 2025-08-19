@@ -1,7 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://gamefacts.ca"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Hugo Site"
+title = "A Puggio Site"
 copyright = "This is a customized copyright."
 theme = "diary"
 
@@ -29,7 +29,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "Themed by Diary."
+subtitle = "Grandpa and Grandma"
 enableGitalk = false
 enableGiscus = true
 
