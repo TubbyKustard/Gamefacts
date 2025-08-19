@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Story on A Hugo Site</title>
+    <link>http://localhost:1313/categories/story/</link>
+    <description>Recent content in Story on A Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Tue, 19 Aug 2025 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/story/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can Black Pugs Cure Depression?</title>
+      <link>http://localhost:1313/posts/eugene/</link>
+      <pubDate>Tue, 19 Aug 2025 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/posts/eugene/</guid>
+      <description>&lt;p&gt;In a quiet corner of the world, hidden from the bustling cities, there existed a secret research facility known only as The Pug Institute of Emotional Wellness. The scientists there were not your typical lab-coated academics—they were pug enthusiasts with a hunch that could change humanity forever. After years of observation, one thing became startlingly clear: black pugs were unlike any other animal on Earth.&lt;/p&gt;&#xA;&lt;p&gt;It all started with Dr. Penelope Fluffington, who noticed that every time a black pug waddled into her office, even the grumpiest postdoctoral researcher couldn’t help but smile. Their tiny wrinkled faces seemed to absorb sadness and exhale joy. Curious, she began a rigorous study, meticulously documenting the reactions of humans to pugs of every color. The results were undeniable: black pugs had a statistically significant effect on mood improvement.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
