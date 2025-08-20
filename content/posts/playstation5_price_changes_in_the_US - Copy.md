@@ -7,7 +7,7 @@ tags: ["PS5"]
 categories: "PlayStation"
 title: "PlayStation 5 price changes in the U.S."
 ---
-Each bundle is increasing by $50.
+Each bundle is increasing by $50
 
 - PlayStation 5 – $549.99
 - PlayStation 5 Digital Edition – $499.99
