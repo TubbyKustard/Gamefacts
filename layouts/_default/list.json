@@ -1,0 +1,14 @@
+[
+{{- $first := true -}}
+{{- range .Site.RegularPages -}}
+  {{- if not $first }},{{ end -}}
+  {
+    "title": {{ .Title | jsonify }},
+    "description": {{ .Params.description | default "" | jsonify }},
+    "url": {{ .RelPermalink | jsonify }},
+    "tags": {{ .Params.tags | default (slice) | jsonify }},
+    "categories": {{ .Params.categories | default (slice) | jsonify }}
+  }
+  {{- $first = false -}}
+{{- end -}}
+]
