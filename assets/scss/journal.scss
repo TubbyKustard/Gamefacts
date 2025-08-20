@@ -347,6 +347,9 @@ a {
     }
     .single-column-header-subtitle {
       font-size: $single-column-nav-subtitle-size;
+      font-family: 'Playfair Display', !important;
+      font-weight: 400 !important; // or 600/700 depending on boldness
+      font-style: normal;
     }
   }
 }
