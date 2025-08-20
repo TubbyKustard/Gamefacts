@@ -1,7 +1,7 @@
 baseURL = "https://gamefacts.ca"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "en-us"
-title = "A Puggio Site"
+title = "Gamefacts"
 copyright = "This is a customized copyright."
 theme = "diary"
 
@@ -29,7 +29,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "Grandpa and Grandma"
+subtitle = "Unbiased Gaming News"
 enableGitalk = false
 enableGiscus = true
 
