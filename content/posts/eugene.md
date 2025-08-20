@@ -2,7 +2,8 @@
 date: 2025-08-19T10:58:08-04:00
 description: "Pugs"
 featured_image: "/images/pug.jpeg"
-images: ["/images/pug.jpeg"]
+video: "https://www.youtube.com/embed/VQRLujxTm3c?si=WbnxREpVWY8d0ABG"
+#images: ["/images/pug.jpeg"]
 tags: ["scene"]
 categories: "Story"
 title: "Can Black Pugs Cure Depression?"
