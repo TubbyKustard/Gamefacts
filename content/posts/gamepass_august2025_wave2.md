@@ -1,6 +1,6 @@
 ---
 date: 2025-08-20T16:28:00-04:00
-description: Includes Gears of War Reloaded and Dragon Age The Veilguard
+description: "Includes Gears of War: Reloaded and Dragon Age: The Veilguard."
 featured_image: "/images/gamepass_august_wave2.jpg"
 images: ["/images/gamepass_august_wave2.jpg"]
 tags: ["Gamepass"]

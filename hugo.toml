@@ -29,7 +29,7 @@ theme = "diary"
     tabWidth = 4
 
 [params]
-subtitle = "Unbiased Gaming News"
+subtitle = ""
 enableGitalk = false
 enableGiscus = true
 

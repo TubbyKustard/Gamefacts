@@ -7,8 +7,36 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Wed, 20 Aug 2025 15:36:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 12:45:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gamepass</title>
+      <link>http://localhost:1313/tags/gamepass/</link>
+      <pubDate>Thu, 21 Aug 2025 12:45:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/gamepass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>High on Life</title>
+      <link>http://localhost:1313/tags/high-on-life/</link>
+      <pubDate>Thu, 21 Aug 2025 12:45:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/high-on-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hollow Knight</title>
+      <link>http://localhost:1313/tags/hollow-knight/</link>
+      <pubDate>Thu, 21 Aug 2025 12:20:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/hollow-knight/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silksong</title>
+      <link>http://localhost:1313/tags/silksong/</link>
+      <pubDate>Thu, 21 Aug 2025 12:20:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/silksong/</guid>
+      <description></description>
+    </item>
     <item>
       <title>PS5</title>
       <link>http://localhost:1313/tags/ps5/</link>
