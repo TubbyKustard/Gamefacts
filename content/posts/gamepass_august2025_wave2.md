@@ -4,7 +4,7 @@ description: "Includes Gears of War: Reloaded and Dragon Age: The Veilguard."
 featured_image: "/images/gamepass_august_wave2.jpg"
 images: ["/images/gamepass_august_wave2.jpg"]
 tags: ["Gamepass"]
-title: "Gamepass August Wave 2 Revealed"
+title: "Xbox Game Pass August Wave 2 Revealed"
 categories: "Xbox"
 ---
 August 19
