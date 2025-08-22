@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PlayStation on Gamefacts</title>
-    <link>http://localhost:1313/tags/playstation/</link>
-    <description>Recent content in PlayStation on Gamefacts</description>
+    <title>Bungie on Gamefacts</title>
+    <link>http://localhost:1313/tags/bungie/</link>
+    <description>Recent content in Bungie on Gamefacts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Fri, 22 Aug 2025 10:12:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/playstation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bungie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bungie CEO is stepping down</title>
       <link>http://localhost:1313/posts/bungie_ceo_is_stepping_down/</link>

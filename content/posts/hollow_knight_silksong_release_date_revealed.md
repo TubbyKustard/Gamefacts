@@ -5,7 +5,7 @@ featured_image: "/images/hollow_Knight_Silksong_cover_art.jpg"
 video: "https://www.youtube.com/embed/6XGeJwsUP9c?si=EM0C-pHJCG49Ld-P"
 tags: ["Silksong", "Game Pass", "Hollow Knight"]
 categories: "Multi-Platform"
-title: "Hollow Knight: Silksong Release Date Revealed"
+title: "Hollow Knight: Silksong release date revealed"
 ---
 Silksong is set to release on
 - Linux
