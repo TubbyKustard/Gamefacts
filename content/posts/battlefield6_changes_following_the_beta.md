@@ -11,7 +11,7 @@ Battlefield 6 just concluded it's last beta session last weekend until full rele
 
 - M87A1 shotgun will now require more pellets to secure a kill. 
 - Momentum, especially horizontal speed, carried from a slide into a jump has been reduced. 
-- There is now a greater pentaly for consecutive jumps.
+- There is now a greater penalty for consecutive jumps.
 
 
 
