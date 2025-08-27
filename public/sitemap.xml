@@ -2,7 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ea/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/multi-platform/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/skate/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/skate_reboot_release_date_announced/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/assassins-creed/</loc>
+    <lastmod>2025-08-26T16:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gears-of-war/</loc>
+    <lastmod>2025-08-26T16:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/gears_of_war_reloaded_is_out_now/</loc>
+    <lastmod>2025-08-26T16:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/helldivers/</loc>
+    <lastmod>2025-08-26T16:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/helldivers2_out_now_on_xbox/</loc>
+    <lastmod>2025-08-26T16:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/ubsoft_announces_new_assassins_creed_mirage_dlc/</loc>
     <lastmod>2025-08-26T16:00:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -13,21 +73,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/battlefield6_gameplay_changes_post_beta/</loc>
-    <lastmod>2025-08-22T11:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-08-22T11:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/multi-platform/</loc>
-    <lastmod>2025-08-22T11:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-22T11:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
