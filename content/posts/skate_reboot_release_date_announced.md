@@ -10,8 +10,10 @@ title: "Skate reboot release date announced"
 
 The new entry in the Skate franchise will be online only and free-to-play. It also launches with cross-platform and cross-progression.
 
-skate. is set to release on
+skate. is set to release on,
 
 - Windows
 - Xbox One and Xbox Series X/S
 - PlayStation 4 and 5
+
+![.skate roadmap](/images/skate_roadmap.jpg)

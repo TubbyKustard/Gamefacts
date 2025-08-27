@@ -14,7 +14,7 @@ theme = "diary"
 # Google Analytics
 [services]
   [services.googleAnalytics]
-    id = "G-XXXXXXXXXX"  # Your Google Analytics ID
+    id = "G-GV9YZMWC7F"  # Your Google Analytics ID
 
 [markup]
   [markup.highlight]
