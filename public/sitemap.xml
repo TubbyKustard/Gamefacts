@@ -3,21 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-08-27T18:25:00-04:00</lastmod>
+    <lastmod>2025-08-29T11:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <lastmod>2025-08-27T18:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ea/</loc>
-    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
+    <loc>http://localhost:1313/categories/playstation/</loc>
+    <lastmod>2025-08-27T18:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/playstation-plus/</loc>
+    <lastmod>2025-08-27T18:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/playstation_plus_games_revealed_for_september/</loc>
+    <lastmod>2025-08-27T18:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-08-27T18:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/multi-platform/</loc>
+    <lastmod>2025-08-27T18:25:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/no-mans-sky/</loc>
+    <lastmod>2025-08-27T18:25:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/no_mans_sky_adds_new_content/</loc>
+    <lastmod>2025-08-27T18:25:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ea/</loc>
     <lastmod>2025-08-27T12:20:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -28,11 +58,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/skate_reboot_release_date_announced/</loc>
-    <lastmod>2025-08-27T12:20:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-08-27T12:20:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -83,11 +108,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/bungie_ceo_is_stepping_down/</loc>
-    <lastmod>2025-08-22T10:12:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/playstation/</loc>
     <lastmod>2025-08-22T10:12:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

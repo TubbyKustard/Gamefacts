@@ -11,17 +11,10 @@
     <atom:link href="http://localhost:1313/tags/playstation-plus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PlayStation Plus games revealed for September</title>
-      <link>http://localhost:1313/posts/playstation_plus_games_revealed_for_september---copy/</link>
-      <pubDate>Wed, 27 Aug 2025 18:30:00 -0400</pubDate>
-      <guid>http://localhost:1313/posts/playstation_plus_games_revealed_for_september---copy/</guid>
-      <description>&lt;p&gt;The latest games coming to PS Plus in September are,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Psychonauts 2 PS4&lt;/li&gt;&#xA;&lt;li&gt;Stardew Valley PS4&lt;/li&gt;&#xA;&lt;li&gt;Viewfinder PS4/PS5&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>PlayStation Plus games revealed for September</title>
       <link>http://localhost:1313/posts/playstation_plus_games_revealed_for_september/</link>
       <pubDate>Wed, 27 Aug 2025 18:30:00 -0400</pubDate>
       <guid>http://localhost:1313/posts/playstation_plus_games_revealed_for_september/</guid>
-      <description>&lt;p&gt;The latest games coming to PS Plus in September are,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Psychonauts 2 PS4&lt;/li&gt;&#xA;&lt;li&gt;Stardew Valley PS4&lt;/li&gt;&#xA;&lt;li&gt;Viewfinder PS4/PS5&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;The latest games coming to PS Plus in September are,&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Psychonauts 2 (PS4)&lt;/li&gt;&#xA;&lt;li&gt;Stardew Valley (PS4)&lt;/li&gt;&#xA;&lt;li&gt;Viewfinder (PS4/PS5)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>
