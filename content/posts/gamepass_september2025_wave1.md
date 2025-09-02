@@ -1,5 +1,5 @@
 ---
-date: 2025-09-01T11:00:00-04:00
+date: 2025-09-02T11:00:00-04:00
 description: "Includes Hollow Knight: Silksong."
 featured_image: "/images/gamepass_september_wave1.jpg"
 images: ["/images/gamepass_september_wave1.jpg"]
