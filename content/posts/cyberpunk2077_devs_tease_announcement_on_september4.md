@@ -1,6 +1,6 @@
 ---
 date: 2025-09-02T11:00:00-04:00
-description: "Posted on X by CD Projekt's Red official account."
+description: "Posted on X by Cyberpunk 2077's official account."
 featured_image: "/images/cp2077.jpg"
 images: ["/images/cp2077.jpg"]
 tags: ["Cyberpunk: 2077"]

@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Tue, 02 Sep 2025 11:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 03 Sep 2025 15:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>007</title>
+      <link>http://localhost:1313/tags/007/</link>
+      <pubDate>Wed, 03 Sep 2025 15:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/007/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First Light</title>
+      <link>http://localhost:1313/tags/first-light/</link>
+      <pubDate>Wed, 03 Sep 2025 15:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/first-light/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cyberpunk: 2077</title>
       <link>http://localhost:1313/tags/cyberpunk-2077/</link>
