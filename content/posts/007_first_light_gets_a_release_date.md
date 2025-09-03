@@ -16,6 +16,8 @@ Versions:
 - 007 First Light Legacy Edition $299.99 / €299,99 / £259.99
 
 The deluxe edition will be free for those who pre-order and includes 24h early access.
+![Deluxe Edition content](/images/007_fl_dx.jpg)
+
 
 The collectors edition (also known as the Legacy edition) includes,
 
@@ -26,5 +28,7 @@ The collectors edition (also known as the Legacy edition) includes,
 - Golden Gun Figurine with Stand & Secret Compartment
 - Certificate of Authenticity
 - Steel Case with Magnet
+
+![Collectors Edition content](/images/007_fl_ce.jpg)
 
 [Click here for more details on each edition.](https://ioi.dk/007firstlightgame)
