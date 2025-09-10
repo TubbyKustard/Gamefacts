@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo on Gamefacts</title>
+    <link>http://localhost:1313/categories/nintendo/</link>
+    <description>Recent content in Nintendo on Gamefacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Wed, 10 Sep 2025 10:30:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/nintendo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nintendo Direct announced for this Friday</title>
+      <link>http://localhost:1313/posts/nintendo_direct_announced_for_this_friday/</link>
+      <pubDate>Wed, 10 Sep 2025 10:30:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/nintendo_direct_announced_for_this_friday/</guid>
+      <description>&lt;p&gt;The Nintendo Direct will begin at 6am PST/9am ET/2pm BST.&lt;/p&gt;&#xA;&lt;p&gt;Where to watch?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=tWIEv_aksvo&amp;amp;ab_channel=NintendoofAmerica&#34;&gt;Youtube&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.twitch.tv/nintendo&#34;&gt;Twitch&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

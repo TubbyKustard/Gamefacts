@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dead Island on Gamefacts</title>
+    <link>http://localhost:1313/tags/dead-island/</link>
+    <description>Recent content in Dead Island on Gamefacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Wed, 10 Sep 2025 10:30:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dead-island/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dead Island 3 is in development</title>
+      <link>http://localhost:1313/posts/dead_island3_is_in_development/</link>
+      <pubDate>Wed, 10 Sep 2025 10:30:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/dead_island3_is_in_development/</guid>
+      <description>&lt;p&gt;Developer Dambuster Studios confirms that Dead Island 3 is in development.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/dead_island3_dev.jpg&#34; alt=&#34;Dead Island 3 X Post&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
