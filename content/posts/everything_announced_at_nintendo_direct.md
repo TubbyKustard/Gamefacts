@@ -104,7 +104,7 @@ title: "Everything announced at Nintendo Direct"
 ---
 
 **Resident Evil 7, Vilalge & Requiem**
-- All three titles release on February 27, 2025 for Nintendo Switch 2.
+- All three titles release on February 27, 2026 for Nintendo Switch 2.
 
 {{< youtube 6a8gK0YdUpY >}}
 
