@@ -67,6 +67,13 @@ title: "Everything announced at Nintendo Direct"
 
 ---
 
+**Kirby Air Raiders gets new amiibos**
+- Releases on November 20, 2025.
+
+{{< youtube SJWif3ijbVI >}}
+
+---
+
 **Yoshi And The Mysterious Book**
 - Releases in Spring 2026 for Nintendo Switch 2.
 
@@ -93,6 +100,21 @@ title: "Everything announced at Nintendo Direct"
 - Releases on December 4, 2025 for Nintendo Switch 1 & 2.
 
 {{< youtube kJNCNswbdG0 >}}
+
+---
+
+**Resident Evil 7, Vilalge & Requiem**
+- All three titles release on February 27, 2025 for Nintendo Switch 2.
+
+{{< youtube 6a8gK0YdUpY >}}
+
+---
+
+**Pokémon Legends: Z-A Mega Dimension DLC**
+- Pokémon Legends Z-A launches on October 16, 2025 for Nintendo Switch 1 & 2.
+- Mega Dimension has no release date.
+
+{{< youtube ExUYVdlA6eI >}}
 
 ---
 
