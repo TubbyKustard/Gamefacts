@@ -90,9 +90,30 @@ title: "Everything announced at Nintendo Direct"
 ---
 
 **Metroid Prime 4**
-- Released on December 4, 2025 for Nintendo Switch 1 & 2.
+- Releases on December 4, 2025 for Nintendo Switch 1 & 2.
 
 {{< youtube kJNCNswbdG0 >}}
+
+---
+
+**Pokémon Pokopia**
+- Releases in 2026 for Nintendo Switch 2.
+
+{{< youtube 6_bYri9p1Uk >}}
+
+---
+
+**Donkey Kong Bananza: DK Island and Emerald Rush DLC**
+- Releases today.
+
+{{< youtube 44xycnG2mKo >}}
+
+---
+
+**Fire Emblem: Fortune's Weave**
+- Releases in 2026 for Nintendo Switch 2.
+
+{{< youtube j6eNaiftiWE >}}
 
 
 
