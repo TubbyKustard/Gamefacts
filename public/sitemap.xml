@@ -3,7 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-15T09:35:00-04:00</lastmod>
+    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/gamefacts/gamefact_1/</loc>
+    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/gamefacts/</loc>
+    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/multi-platform/</loc>
+    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -12,22 +37,12 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/dyling_light_thebeast_will_release_a_day_early/</loc>
+    <loc>http://localhost:1313/posts/dying_light_thebeast_will_release_a_day_early/</loc>
     <lastmod>2025-09-15T09:35:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/multi-platform/</loc>
-    <lastmod>2025-09-15T09:35:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-15T09:35:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-09-15T09:35:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

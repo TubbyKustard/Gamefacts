@@ -49,7 +49,7 @@ title: "Everything announced at Nintendo Direct"
 - Supports split screen co-op.
 - Supports Gameshare (only one person needs to own a copy).
 
-{{< youtube DCPm1ndruFc >}}
+{{< youtube vuSV9Sy28Mw >}}
 
 ---
 
