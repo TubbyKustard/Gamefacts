@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gamefacts</title>
-    <link>http://localhost:1313/categories/gamefacts/</link>
-    <description>Recent content on Gamefacts</description>
+    <title>Grand Theft Auto on Gamefacts</title>
+    <link>http://localhost:1313/tags/grand-theft-auto/</link>
+    <description>Recent content in Grand Theft Auto on Gamefacts</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
     <lastBuildDate>Tue, 16 Sep 2025 09:00:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/gamefacts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/grand-theft-auto/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Gamefact #2</title>
       <link>http://localhost:1313/posts/gamefacts/gamefact_2/</link>
       <pubDate>Tue, 16 Sep 2025 09:00:00 -0400</pubDate>
       <guid>http://localhost:1313/posts/gamefacts/gamefact_2/</guid>
       <description>&lt;p&gt;The very first Grand Theft Auto launched on MS-DOS and Windows on November 28, 1997.&#xA;GTA IV released on April 29, 2008—a span of 10 years, 5 months, and 1 day.&lt;/p&gt;&#xA;&lt;p&gt;Today marks 12 years since the release of GTA V (September 17, 2013). In that time, Rockstar has not released another mainline GTA title. Instead, we only saw one handheld spinoff (GTA: Chinatown Wars for PSP and Nintendo DS) and two expansions for GTA IV (The Lost and Damned and The Ballad of Gay Tony).&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gamefact #1</title>
-      <link>http://localhost:1313/posts/gamefacts/gamefact_1/</link>
-      <pubDate>Mon, 15 Sep 2025 09:40:00 -0400</pubDate>
-      <guid>http://localhost:1313/posts/gamefacts/gamefact_1/</guid>
-      <description>&lt;p&gt;Clair Obscur: Expedition 33 released on April 24, 2025.&#xA;The title launched day one on Gamepass and still secured 4.4 million copies sold in 5 months.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.gamereactor.eu/clair-obscur-expedition-33-quietly-tops-44-million-in-sales-1601503/&#34;&gt;Source&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -32,12 +32,27 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/gamefacts/gamefact_1/</loc>
-    <lastmod>2025-09-15T09:40:00-04:00</lastmod>
+    <loc>http://localhost:1313/posts/gamefacts/gamefact_2/</loc>
+    <lastmod>2025-09-16T09:00:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/gamefacts/</loc>
+    <lastmod>2025-09-16T09:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/grand-theft-auto/</loc>
+    <lastmod>2025-09-16T09:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/gta/</loc>
+    <lastmod>2025-09-16T09:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/gamefacts/gamefact_1/</loc>
     <lastmod>2025-09-15T09:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
