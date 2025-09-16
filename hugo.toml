@@ -32,6 +32,7 @@ theme = "diary"
 subtitle = ""
 enableGitalk = false
 enableGiscus = true
+defaultDescription = "Gamefacts is a Canadian gaming news outlet delivering unbiased, up-to-date gaming news and unique gaming facts to keep fans informed and entertained"
 
 # Microsoft Clarity (https://clarity.microsoft.com/) is a free user behavior recording and analytics tool
 clarity = "abcdefghzd"
