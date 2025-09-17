@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /drafts/
+Allow: /
+
+Sitemap: https://gamefacts.ca/sitemap.xml
