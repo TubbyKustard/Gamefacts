@@ -1,6 +1,6 @@
 ---
-date: 2025-09-17T00:00:00-04:00
-description: "GTA V has been out longer than the time it took to go from GTA I to GTA IV today."
+date: 2025-09-17T09:14:00-04:00
+description: "GTA V has been out longer than the time it took to go from GTA I to GTA IV."
 featured_image: "/images/gtav.jpg"
 images: ["/images/gtav.jpg"]
 tags: ["Grand Theft Auto", "GTA"]
