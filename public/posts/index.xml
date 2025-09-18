@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Wed, 17 Sep 2025 09:14:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 18 Sep 2025 09:20:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Battlefield 6 will not have a console-only crossplay option</title>
+      <link>http://localhost:1313/posts/battlefield6-will-not-have-console-only-crossplay/</link>
+      <pubDate>Thu, 18 Sep 2025 09:20:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/battlefield6-will-not-have-console-only-crossplay/</guid>
+      <description>&lt;p&gt;Despite an earlier interview with a Battlefield Studios developer suggesting Battlefield 6 would include a console-only cross-play option, (Dexerto)[https://www.dexerto.com/battlefield/ea-confirms-battlefield-6-wont-have-console-only-crossplay-after-all-3252439/] reports that EA has confirmed otherwise. Instead, console players who choose to disable cross-play will be limited to matchmaking solely within their own platform.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Gamefact #2</title>
       <link>http://localhost:1313/posts/gamefacts/gamefact_2/</link>
