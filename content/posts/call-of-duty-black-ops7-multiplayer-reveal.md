@@ -2,6 +2,7 @@
 date: 2025-09-22T13:15:00-04:00
 description: "Game modes, Perks, Maps, Beta details, and more"
 featured_image: "/images/black_ops7.jpg"
+images: ["/images/black_ops7.jpg"]
 video: "https://www.youtube.com/embed/pGFYtZD53ZA"
 tags: ["Black Ops", "Call of Duty"]
 categories: "Multi-Platform"

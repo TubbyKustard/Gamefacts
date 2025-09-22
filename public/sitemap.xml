@@ -12,7 +12,7 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/all-you-need-to-know-about-black-ops7-multiplayer-reveal/</loc>
+    <loc>http://localhost:1313/posts/call-of-duty-black-ops7-multiplayer-reveal/</loc>
     <lastmod>2025-09-22T13:15:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -47,12 +47,12 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/ps5/</loc>
+    <loc>http://localhost:1313/categories/xbox/</loc>
     <lastmod>2025-09-22T09:15:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/xbox/</loc>
+    <loc>http://localhost:1313/tags/xbox/</loc>
     <lastmod>2025-09-22T09:15:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -363,6 +363,11 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/playstation5-price-changes-in-the-us/</loc>
+    <lastmod>2025-08-20T15:36:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ps5/</loc>
     <lastmod>2025-08-20T15:36:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
