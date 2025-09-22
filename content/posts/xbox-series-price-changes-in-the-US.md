@@ -3,7 +3,7 @@ date: 2025-09-22T09:15:00-04:00
 description: "The price increase comes on October 3rd."
 featured_image: "/images/xbox_console.jpg"
 images: ["/images/xbox_console.jpg"]
-tags: ["PS5"]
+tags: ["Xbox"]
 categories: "Xbox"
 title: "Xbox Series X|S price changes in the U.S."
 ---
