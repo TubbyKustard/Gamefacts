@@ -1,5 +1,5 @@
 ---
-date: 2025-09-25T17:00:00-04:00
+date: 2025-09-24T17:00:00-04:00
 description: "See what got revealed during September 2025's showcase."
 featured_image: "/images/ps_sop.jpg"
 images: ["/images/ps_sop.jpg"]
@@ -25,7 +25,7 @@ title: "Everything announced at PlayStation's State of Play"
 **Microsoft Flight Simulator 2024 is coming to PS5**
 - Releases December 8, 2025.
 
-{{< youtube 0Fghz93zCdY >}}
+{{< youtube S5xeNotR5Hw >}}
 
 ---
 
@@ -44,7 +44,7 @@ title: "Everything announced at PlayStation's State of Play"
 ---
 
 **Last Epoch Orobyss Expansion announced**
-- Releases on 
+- Release date pending. Will release with launch of game.
 
 {{< youtube hkpMzRtySZk >}}
 
