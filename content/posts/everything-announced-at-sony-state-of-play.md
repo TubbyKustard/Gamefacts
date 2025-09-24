@@ -9,7 +9,7 @@ title: "Everything announced at PlayStation's State of Play"
 ---
 
 **Saros gameplay revealed**
-- Releases on March 20, 2026 for PS5.
+- Releases on March 20, 2026.
 
 {{< youtube XtCS5tuvCKs >}}
 
@@ -30,21 +30,22 @@ title: "Everything announced at PlayStation's State of Play"
 ---
 
 **Deux Ex Remastered**
-- Releases on February 5, 2026 for PS5.
+- Releases on February 5, 2026.
 
 {{< youtube f1RdKezTYNk >}}
 
 ---
 
 **Halloween: The Game gets a release date**
-- Releases on September 8, 2026 for PS5.
+- Releases on September 8, 2026.
 
 {{< youtube I0VogwO2QTw >}}
 
 ---
 
 **Last Epoch Orobyss Expansion announced**
-- Release date pending. Will release with launch of game.
+- Will release alongside the launch of the base game.
+- Release date pending.
 
 {{< youtube hkpMzRtySZk >}}
 
@@ -58,7 +59,7 @@ title: "Everything announced at PlayStation's State of Play"
 ---
 
 **Nioh 3 gets a release date**
-- Releases on February 6, 2026 for PS5.
+- Releases on February 6, 2026.
 
 {{< youtube NsAWT1XEnUc >}}
 
@@ -86,7 +87,7 @@ title: "Everything announced at PlayStation's State of Play"
 ---
 
 **Chronoscript: The Endless End**
-- Releases in 2026 for PS5.
+- Releases in 2026.
 
 {{< youtube rL2rdn9qPuQ >}}
 

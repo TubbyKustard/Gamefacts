@@ -2,7 +2,7 @@
 date: 2025-09-24T17:05:00-04:00
 description: "All playable from October 7."
 featured_image: "/images/psplus_oct25.jpg"
-images: ["/images/psplus_oct.jpg"]
+images: ["/images/psplus_oct25.jpg"]
 tags: ["PlayStation Plus"]
 categories: "PlayStation"
 title: "PlayStation Plus games revealed for October"
