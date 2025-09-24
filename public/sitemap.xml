@@ -2,8 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/avatar/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/avatar-frontiers-of-pandora-from-the-ashes-dlc-announced/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-23T10:35:00-04:00</lastmod>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/multi-platform/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/rgg/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ubisoft/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/yakuza/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/yakuza0-yakuza-kiwami-yakuza-kiwami2-gets-current-gen-upgrades/</loc>
+    <lastmod>2025-09-23T11:20:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -17,28 +62,8 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-23T10:35:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/state-of-play/</loc>
     <lastmod>2025-09-23T10:35:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-09-23T10:35:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/avatar/</loc>
-    <lastmod>2025-09-23T10:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/avatar-frontiers-of-pandora-from-the-ashes-dlc-announced/</loc>
-    <lastmod>2025-09-23T10:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -57,17 +82,7 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/multi-platform/</loc>
-    <lastmod>2025-09-23T10:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/od/</loc>
-    <lastmod>2025-09-23T10:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ubisoft/</loc>
     <lastmod>2025-09-23T10:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
