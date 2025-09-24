@@ -5,7 +5,7 @@ featured_image: "/images/ps_sop.jpg"
 images: ["/images/ps_sop.jpg"]
 tags: ["State of Play"]
 categories: "PlayStation"
-title: "Everything announced at PlayStation's State of Play"
+title: "Everything announced at Sony's State of Play"
 ---
 
 **Saros gameplay revealed**
@@ -102,7 +102,7 @@ title: "Everything announced at PlayStation's State of Play"
 
 **Pulse Elevate Wireless Speakers announced**
 - Compatible with PC, PS5, and PS Portal.
-- Supports multiple Bluetooth devices connected..
+- Supports multiple simultaneous Bluetooth connections.
 - Available in 2026.
 
 {{< youtube nD_W8o21LNc >}}
