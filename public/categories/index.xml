@@ -7,20 +7,20 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Tue, 23 Sep 2025 11:20:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 24 Sep 2025 17:15:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Multi-Platform</title>
-      <link>http://localhost:1313/categories/multi-platform/</link>
-      <pubDate>Tue, 23 Sep 2025 11:20:00 -0400</pubDate>
-      <guid>http://localhost:1313/categories/multi-platform/</guid>
-      <description></description>
-    </item>
     <item>
       <title>PlayStation</title>
       <link>http://localhost:1313/categories/playstation/</link>
-      <pubDate>Tue, 23 Sep 2025 10:35:00 -0400</pubDate>
+      <pubDate>Wed, 24 Sep 2025 17:15:00 -0400</pubDate>
       <guid>http://localhost:1313/categories/playstation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Platform</title>
+      <link>http://localhost:1313/categories/multi-platform/</link>
+      <pubDate>Wed, 24 Sep 2025 09:54:00 -0400</pubDate>
+      <guid>http://localhost:1313/categories/multi-platform/</guid>
       <description></description>
     </item>
     <item>
