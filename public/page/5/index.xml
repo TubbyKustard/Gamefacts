@@ -1,0 +1,66 @@
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gamefacts</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Gamefacts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+        <item>
+        <title>Xbox Game Pass August wave 2 revealed</title>
+        <link>http://localhost:1313/posts/gamepass-august2025-wave2/</link>
+        <pubDate>Wed, 20 Aug 2025 16:28:00 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/gamepass-august2025-wave2/</guid>
+        <description>Gamefacts http://localhost:1313/posts/gamepass-august2025-wave2/ -&lt;p&gt;August 19&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Blacksmith Master (Game Preview) — Game Pass Ultimate, PC Game Pass (Xbox on PC)&lt;/li&gt;
+&lt;li&gt;Void/Breaker — Game Pass Ultimate, PC Game Pass (Xbox on PC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;August 20&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Goat Simulator Remastered — Game Pass Standard (Xbox Series X|S)&lt;/li&gt;
+&lt;li&gt;Persona 4 Golden — Game Pass Ultimate, Standard, PC Game Pass (Xbox Series X|S, Xbox One, Xbox on PC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;August 21&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Herdling — Game Pass Ultimate, PC Game Pass (Xbox Series X|S, Xbox on PC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;August 26&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Gears of War: Reloaded — Game Pass Ultimate, PC Game Pass (Xbox Series X|S, Xbox on PC)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;August 28&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dragon Age: The Veilguard — Game Pass Ultimate, PC Game Pass (Xbox Series X|S, Xbox on PC)&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/posts/gamepass-august2025-wave2/ - This is a customized copyright.</description>
+        </item>
+    
+    
+    
+        <item>
+        <title>PlayStation 5 price changes in the U.S.</title>
+        <link>http://localhost:1313/posts/playstation5-price-changes-in-the-us/</link>
+        <pubDate>Wed, 20 Aug 2025 15:36:00 -0400</pubDate>
+        
+        <guid>http://localhost:1313/posts/playstation5-price-changes-in-the-us/</guid>
+        <description>Gamefacts http://localhost:1313/posts/playstation5-price-changes-in-the-us/ -&lt;p&gt;Each bundle is increasing by $50&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PlayStation 5 – $549.99&lt;/li&gt;
+&lt;li&gt;PlayStation 5 Digital Edition – $499.99&lt;/li&gt;
+&lt;li&gt;PlayStation 5 Pro – $749.99&lt;/li&gt;
+&lt;/ul&gt;
+- http://localhost:1313/posts/playstation5-price-changes-in-the-us/ - This is a customized copyright.</description>
+        </item>
+    
+    
+  </channel>
+</rss> 

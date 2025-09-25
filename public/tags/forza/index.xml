@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forza on Gamefacts</title>
+    <link>http://localhost:1313/tags/forza/</link>
+    <description>Recent content in Forza on Gamefacts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>This is a customized copyright.</copyright>
+    <lastBuildDate>Thu, 25 Sep 2025 08:55:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/forza/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xbox reveals Forza Horizon 6</title>
+      <link>http://localhost:1313/posts/xbox-reveals-forza-horizon-6/</link>
+      <pubDate>Thu, 25 Sep 2025 08:55:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/xbox-reveals-forza-horizon-6/</guid>
+      <description>&lt;p&gt;Releasing in 2026.&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VXedKqX5Wa4?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;hr&gt;</description>
+    </item>
+  </channel>
+</rss>

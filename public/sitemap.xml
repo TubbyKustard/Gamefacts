@@ -3,21 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-09-24T17:15:00-04:00</lastmod>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/playstation/</loc>
-    <lastmod>2025-09-24T17:15:00-04:00</lastmod>
+    <loc>http://localhost:1313/tags/forza/</loc>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/forza-horizon/</loc>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-24T17:15:00-04:00</lastmod>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/xbox/</loc>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/xbox-reveals-forza-horizon-6/</loc>
+    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/monster-hunter/</loc>
+    <lastmod>2025-09-25T08:54:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/monster-hunter-trilogy-is-coming-to-xbox/</loc>
+    <lastmod>2025-09-25T08:54:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/playstation/</loc>
     <lastmod>2025-09-24T17:15:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -29,6 +59,16 @@
   </url><url>
     <loc>http://localhost:1313/posts/marvels-wolverine-gets-gory-new-gameplay-and-release-window/</loc>
     <lastmod>2025-09-24T17:15:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/playstation-plus/</loc>
+    <lastmod>2025-09-24T17:05:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/playstation-plus-games-revealed-for-october/</loc>
+    <lastmod>2025-09-24T17:05:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -103,11 +143,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/od/</loc>
-    <lastmod>2025-09-23T10:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/xbox/</loc>
     <lastmod>2025-09-23T10:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -224,11 +259,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/battlefield6-battle-royale-mode-confirmed/</loc>
     <lastmod>2025-09-11T10:15:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/playstation-plus/</loc>
-    <lastmod>2025-09-10T13:15:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
