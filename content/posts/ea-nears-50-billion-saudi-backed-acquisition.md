@@ -5,10 +5,11 @@ featured_image: "/images/ea.jpg"
 images: ["/images/ea.jpg"]
 tags: ["EA", "Acquisition"]
 categories: "Multi-Platform"
-title: "EA Nears $55 Billion Saudi-Backed Acquisition"
+title: "EA confirms $55 Billion Saudi-Backed Acquisition"
 ---
-As reported late last week by multiple outlets, Electronic Arts is in serious talks on a historic buyout deal that would take the company private at a valuation of roughly $55 billion USD. If completed, the agreement would make EA under Saudi ownership through the kingdom’s Public Investment Fund (PIF).
+As reported late last week by multiple outlets, Electronic Arts was in serious talks on a historic $50 billion buyout. Today, at a press conference, EA announced that it has reached an agreement to be acquired, which would place the company under Saudi ownership, primarily funded through the kingdom’s Public Investment Fund (PIF).
 
 
 This is part of Saudi Arabia’s Vision 2030 plan, which aims to reduce the kingdom’s reliance on oil by expanding into sectors such as entertainment, technology, tourism, and gaming.
 
+[Source](https://www.businesswire.com/news/home/20250929186526/en/EA-Announces-Agreement-to-be-Acquired-by-PIF-Silver-Lake-and-Affinity-Partners-for-%2455-Billion)
