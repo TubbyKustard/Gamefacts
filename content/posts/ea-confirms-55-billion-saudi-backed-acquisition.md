@@ -1,6 +1,6 @@
 ---
 date: 2025-09-29T8:40:00-04:00
-description: "Saudi Arabia’s Public Investment Fund (PIF) is positioned to play a leading role in the acquisition."
+description: "Backed by Saudi Arabia’s PIF, Silver Lake, and Jared Kushner’s Affinity Partners."
 featured_image: "/images/ea.jpg"
 images: ["/images/ea.jpg"]
 tags: ["EA", "Acquisition"]
