@@ -2,12 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/acquisition/</loc>
-    <lastmod>2025-09-29T08:40:00-04:00</lastmod>
+    <loc>http://localhost:1313/tags/avalanche/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/battlefield6-devs-outline-their-season1-roadmap/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/multi-platform/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/acquisition/</loc>
     <lastmod>2025-09-29T08:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -17,22 +42,7 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/ea-nears-50-billion-deal-to-go-private/</loc>
-    <lastmod>2025-09-29T08:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/multi-platform/</loc>
-    <lastmod>2025-09-29T08:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-09-29T08:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/posts/ea-confirms-55-billion-saudi-backed-acquisition/</loc>
     <lastmod>2025-09-29T08:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
