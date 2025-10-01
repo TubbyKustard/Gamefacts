@@ -2,17 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-01T13:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-pass/</loc>
+    <lastmod>2025-10-01T13:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-01T13:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-01T13:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/xbox/</loc>
+    <lastmod>2025-10-01T13:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/xbox-gamepass-ultimate-is-increasing-by-50/</loc>
+    <lastmod>2025-10-01T13:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/avalanche/</loc>
     <lastmod>2025-10-01T09:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/battlefield6-devs-outline-their-season1-roadmap/</loc>
+    <loc>http://localhost:1313/posts/avalanche-studios-hit-with-layoffs/</loc>
     <lastmod>2025-10-01T09:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/tags/battlefield/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/battlefield6-devs-outline-season1-roadmap/</loc>
+    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ea/</loc>
     <lastmod>2025-10-01T09:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -22,22 +62,7 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-01T09:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/acquisition/</loc>
-    <lastmod>2025-09-29T08:40:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ea/</loc>
     <lastmod>2025-09-29T08:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -68,11 +93,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/forza-horizon/</loc>
-    <lastmod>2025-09-25T08:55:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/xbox/</loc>
     <lastmod>2025-09-25T08:55:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -219,11 +239,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/xbox-series-price-changes-in-the-us/</loc>
     <lastmod>2025-09-22T09:15:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/battlefield/</loc>
-    <lastmod>2025-09-18T09:20:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -464,11 +479,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/playstation/</loc>
     <lastmod>2025-08-22T10:12:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/game-pass/</loc>
-    <lastmod>2025-08-21T12:45:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
