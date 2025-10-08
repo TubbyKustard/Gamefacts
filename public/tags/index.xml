@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Wed, 01 Oct 2025 13:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 Oct 2025 09:55:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assassin&#39;s Creed</title>
+      <link>http://localhost:1313/tags/assassins-creed/</link>
+      <pubDate>Wed, 08 Oct 2025 09:55:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/assassins-creed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubisoft</title>
+      <link>http://localhost:1313/tags/ubisoft/</link>
+      <pubDate>Wed, 08 Oct 2025 09:55:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ubisoft/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Game Pass</title>
       <link>http://localhost:1313/tags/game-pass/</link>
@@ -112,13 +126,6 @@
       <link>http://localhost:1313/tags/avatar/</link>
       <pubDate>Tue, 23 Sep 2025 11:20:00 -0400</pubDate>
       <guid>http://localhost:1313/tags/avatar/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ubisoft</title>
-      <link>http://localhost:1313/tags/ubisoft/</link>
-      <pubDate>Tue, 23 Sep 2025 11:20:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/ubisoft/</guid>
       <description></description>
     </item>
     <item>
@@ -287,13 +294,6 @@
       <link>http://localhost:1313/tags/skate/</link>
       <pubDate>Wed, 27 Aug 2025 12:20:00 -0400</pubDate>
       <guid>http://localhost:1313/tags/skate/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Assassin&#39;s Creed</title>
-      <link>http://localhost:1313/tags/assassins-creed/</link>
-      <pubDate>Tue, 26 Aug 2025 16:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/assassins-creed/</guid>
       <description></description>
     </item>
     <item>
