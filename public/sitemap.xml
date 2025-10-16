@@ -3,21 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-09T09:45:00-04:00</lastmod>
+    <lastmod>2025-10-16T09:00:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/game-pass/</loc>
-    <lastmod>2025-10-09T09:45:00-04:00</lastmod>
+    <loc>http://localhost:1313/categories/playstation/</loc>
+    <lastmod>2025-10-16T09:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/playstation-plus/</loc>
+    <lastmod>2025-10-16T09:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/playstation-plus-game-catalog-for-october-revealed/</loc>
+    <lastmod>2025-10-16T09:00:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-09T09:45:00-04:00</lastmod>
+    <lastmod>2025-10-16T09:00:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-16T09:00:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-pass/</loc>
     <lastmod>2025-10-09T09:45:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -137,11 +152,6 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/playstation/</loc>
-    <lastmod>2025-09-24T17:15:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/tags/wolverine/</loc>
     <lastmod>2025-09-24T17:15:00-04:00</lastmod>
     <changefreq>always</changefreq>
@@ -149,11 +159,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/marvels-wolverine-gets-gory-new-gameplay-and-release-window/</loc>
     <lastmod>2025-09-24T17:15:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/playstation-plus/</loc>
-    <lastmod>2025-09-24T17:05:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>

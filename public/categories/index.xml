@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Thu, 09 Oct 2025 09:45:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 09:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PlayStation</title>
+      <link>http://localhost:1313/categories/playstation/</link>
+      <pubDate>Thu, 16 Oct 2025 09:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/categories/playstation/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Xbox</title>
       <link>http://localhost:1313/categories/xbox/</link>
@@ -28,13 +35,6 @@
       <link>http://localhost:1313/categories/gamefacts/</link>
       <pubDate>Thu, 25 Sep 2025 09:50:00 -0400</pubDate>
       <guid>http://localhost:1313/categories/gamefacts/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>PlayStation</title>
-      <link>http://localhost:1313/categories/playstation/</link>
-      <pubDate>Wed, 24 Sep 2025 17:15:00 -0400</pubDate>
-      <guid>http://localhost:1313/categories/playstation/</guid>
       <description></description>
     </item>
     <item>
