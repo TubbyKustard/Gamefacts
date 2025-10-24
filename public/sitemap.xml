@@ -2,28 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-10-22T12:00:00-04:00</lastmod>
+    <loc>http://localhost:1313/tags/bethesda/</loc>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/game-pass/</loc>
-    <lastmod>2025-10-22T12:00:00-04:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/fallout/</loc>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/fallout4-anniversary-edition-announced/</loc>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/multi-platform/</loc>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-10-22T12:00:00-04:00</lastmod>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-10-22T12:00:00-04:00</lastmod>
+    <lastmod>2025-10-24T08:49:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-pass/</loc>
+    <lastmod>2025-10-24T08:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/pacific-drive-shadow-drops-onto-xbox-gamepass/</loc>
+    <lastmod>2025-10-24T08:40:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/categories/xbox/</loc>
-    <lastmod>2025-10-22T12:00:00-04:00</lastmod>
+    <lastmod>2025-10-24T08:40:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/assassins-creed/</loc>
+    <lastmod>2025-10-24T08:35:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/assassins-creed-shadows-switch2-release-date-confirmed/</loc>
+    <lastmod>2025-10-24T08:35:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/ubisoft/</loc>
+    <lastmod>2025-10-24T08:35:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -67,22 +107,7 @@
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/multi-platform/</loc>
-    <lastmod>2025-10-08T10:00:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/assassins-creed/</loc>
-    <lastmod>2025-10-08T09:55:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>http://localhost:1313/posts/assassins-creed-mirage-valley-of-memory-gets-a-release-date/</loc>
-    <lastmod>2025-10-08T09:55:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/ubisoft/</loc>
     <lastmod>2025-10-08T09:55:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

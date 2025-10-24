@@ -7,13 +7,41 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 24 Oct 2025 08:49:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bethesda</title>
+      <link>http://localhost:1313/tags/bethesda/</link>
+      <pubDate>Fri, 24 Oct 2025 08:49:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/bethesda/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fallout</title>
+      <link>http://localhost:1313/tags/fallout/</link>
+      <pubDate>Fri, 24 Oct 2025 08:49:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/fallout/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Game Pass</title>
       <link>http://localhost:1313/tags/game-pass/</link>
-      <pubDate>Wed, 22 Oct 2025 12:00:00 -0400</pubDate>
+      <pubDate>Fri, 24 Oct 2025 08:40:00 -0400</pubDate>
       <guid>http://localhost:1313/tags/game-pass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Assassin&#39;s Creed</title>
+      <link>http://localhost:1313/tags/assassins-creed/</link>
+      <pubDate>Fri, 24 Oct 2025 08:35:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/assassins-creed/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubisoft</title>
+      <link>http://localhost:1313/tags/ubisoft/</link>
+      <pubDate>Fri, 24 Oct 2025 08:35:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ubisoft/</guid>
       <description></description>
     </item>
     <item>
@@ -35,20 +63,6 @@
       <link>http://localhost:1313/tags/ea/</link>
       <pubDate>Wed, 08 Oct 2025 10:00:00 -0400</pubDate>
       <guid>http://localhost:1313/tags/ea/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Assassin&#39;s Creed</title>
-      <link>http://localhost:1313/tags/assassins-creed/</link>
-      <pubDate>Wed, 08 Oct 2025 09:55:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/assassins-creed/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ubisoft</title>
-      <link>http://localhost:1313/tags/ubisoft/</link>
-      <pubDate>Wed, 08 Oct 2025 09:55:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/ubisoft/</guid>
       <description></description>
     </item>
     <item>
