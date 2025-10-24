@@ -9,6 +9,7 @@ title: "Fallout 4 Anniversary Edition Announced"
 ---
 
 Fallout 4 Anniversary Edition releases on Xbox Series X|S, Xbox One, PC, PlayStation 5 and PlayStation 4.
+A Nintendo Switch 2 version is confirmed for 2026.
 
 This edition includes,
 
