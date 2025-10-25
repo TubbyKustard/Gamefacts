@@ -1,6 +1,6 @@
 ---
 date: 2025-10-25T11:30:00-04:00
-description: "Coming to Xbox Series X|S, PC, and PS5 in 2026."
+description: "Coming in 2026 to Xbox Series X|S, PC, and for the first time ever, PlayStation 5."
 featured_image: "/images/halo-ce.jpg"
 images: ["/images/halo-ce.jpg"]
 tags: ["Halo", "Halo Studios"]
