@@ -2,7 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/amazon/</loc>
+    <lastmod>2025-10-30T08:45:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/amazon-ends-support-for-new-world-aeternum/</loc>
+    <lastmod>2025-10-30T08:45:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-30T08:45:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/categories/multi-platform/</loc>
+    <lastmod>2025-10-30T08:45:00-04:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/new-world/</loc>
     <lastmod>2025-10-30T08:45:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -43,11 +63,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/halo-studios/</loc>
-    <lastmod>2025-10-25T11:30:00-04:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/categories/multi-platform/</loc>
     <lastmod>2025-10-25T11:30:00-04:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
