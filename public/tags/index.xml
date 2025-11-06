@@ -7,8 +7,29 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Tue, 04 Nov 2025 09:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 06 Nov 2025 16:30:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Grand Theft Auto</title>
+      <link>http://localhost:1313/tags/grand-theft-auto/</link>
+      <pubDate>Thu, 06 Nov 2025 16:30:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/grand-theft-auto/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GTA</title>
+      <link>http://localhost:1313/tags/gta/</link>
+      <pubDate>Thu, 06 Nov 2025 16:30:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/gta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rockstar</title>
+      <link>http://localhost:1313/tags/rockstar/</link>
+      <pubDate>Thu, 06 Nov 2025 16:30:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/rockstar/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Game Pass</title>
       <link>http://localhost:1313/tags/game-pass/</link>
@@ -210,20 +231,6 @@
       <link>http://localhost:1313/tags/xbox/</link>
       <pubDate>Mon, 22 Sep 2025 09:15:00 -0400</pubDate>
       <guid>http://localhost:1313/tags/xbox/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Grand Theft Auto</title>
-      <link>http://localhost:1313/tags/grand-theft-auto/</link>
-      <pubDate>Wed, 17 Sep 2025 09:14:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/grand-theft-auto/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GTA</title>
-      <link>http://localhost:1313/tags/gta/</link>
-      <pubDate>Wed, 17 Sep 2025 09:14:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/gta/</guid>
       <description></description>
     </item>
     <item>
