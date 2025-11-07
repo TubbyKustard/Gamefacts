@@ -7,8 +7,22 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Thu, 06 Nov 2025 16:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 07 Nov 2025 09:00:00 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marvel</title>
+      <link>http://localhost:1313/tags/marvel/</link>
+      <pubDate>Fri, 07 Nov 2025 09:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/marvel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Skydance Games</title>
+      <link>http://localhost:1313/tags/skydance-games/</link>
+      <pubDate>Fri, 07 Nov 2025 09:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/tags/skydance-games/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Grand Theft Auto</title>
       <link>http://localhost:1313/tags/grand-theft-auto/</link>
